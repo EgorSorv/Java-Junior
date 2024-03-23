@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dcfbec1-1159-405a-9b87-ac5637580797" name="Changes" comment="" />
+    <list default="true" id="9dcfbec1-1159-405a-9b87-ac5637580797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/AfterAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/AfterEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/BeforeAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/BeforeEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw2/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -21,34 +31,41 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2doWeA8O9oxGZdoFyvzzzIpGqgx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/egor/IdeaProjects/Java_Junior/src/main/java/seminar1/task1/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "hw2",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/egor/IdeaProjects/Java_Junior/src/main/java/seminar1/task1/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.Main" />
       <module name="Java_Junior_sem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java_Junior_sem" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
