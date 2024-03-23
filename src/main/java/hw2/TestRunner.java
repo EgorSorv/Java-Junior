@@ -1,5 +1,7 @@
 package hw2;
 
+import hw2.annotations.*;
+
 import java.lang.reflect.AccessFlag;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

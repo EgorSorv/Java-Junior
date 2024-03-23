@@ -1,5 +1,7 @@
 package hw2;
 
+import hw2.annotations.*;
+
 /**
  * 1. Создать аннотации BeforeEach, BeforeAll, AfterEach, AfterAll<p>
  * 2. Доработать класс TestRunner так, что:<p>
@@ -26,7 +28,7 @@ public class Main {
 
     @BeforeAll
     void beforeAll() {
-        System.out.println("before all");
+        System.out.println("before all\n");
     }
 
     @BeforeEach
@@ -41,7 +43,7 @@ public class Main {
 
     @AfterEach
     void afterEach() {
-        System.out.println("after each");
+        System.out.println("after each\n");
     }
 
     @Test(order = 2)
@@ -52,5 +54,10 @@ public class Main {
     @Test(order = 1)
     void test2() {
         System.out.println("test 2");
+    }
+
+    @Test(order = 3)
+    void test3() {
+        System.out.println("test 3");
     }
 }
