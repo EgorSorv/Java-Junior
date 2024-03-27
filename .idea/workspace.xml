@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dcfbec1-1159-405a-9b87-ac5637580797" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/AfterAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/annotations/AfterAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/AfterEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/annotations/AfterEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/BeforeAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/annotations/BeforeAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/BeforeEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/annotations/BeforeEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/annotations/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw2/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw2/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +18,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -40,7 +40,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hw2",
+    "git-widget-placeholder": "hw3",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/egor/IdeaProjects/Java_Junior/src/main/java/seminar1/task1/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -48,11 +48,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw2.Main" />
+      <option name="MAIN_CLASS_NAME" value="hw3.Main" />
       <module name="Java_Junior_sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw2.annotations.*" />
+          <option name="PATTERN" value="hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
